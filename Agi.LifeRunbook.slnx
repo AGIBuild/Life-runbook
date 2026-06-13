@@ -1,0 +1,22 @@
+<Solution>
+    <Folder Name="/src/">
+        <Project Path="src/Agi.LifeRunbook.Domain/Agi.LifeRunbook.Domain.csproj" />
+        <Project Path="src/Agi.LifeRunbook.Application/Agi.LifeRunbook.Application.csproj" />
+        <Project Path="src/Agi.LifeRunbook.EntityFrameworkCore/Agi.LifeRunbook.EntityFrameworkCore.csproj" />
+        <Project Path="src/Agi.LifeRunbook.Web/Agi.LifeRunbook.Web.csproj" />
+        <Project Path="src/Agi.LifeRunbook.Domain.Shared/Agi.LifeRunbook.Domain.Shared.csproj" />
+        <Project Path="src/Agi.LifeRunbook.Application.Contracts/Agi.LifeRunbook.Application.Contracts.csproj" />
+        <Project Path="src/Agi.LifeRunbook.HttpApi/Agi.LifeRunbook.HttpApi.csproj" />
+        <Project Path="src/Agi.LifeRunbook.HttpApi.Client/Agi.LifeRunbook.HttpApi.Client.csproj" />
+        <Project Path="src/Agi.LifeRunbook.DbMigrator/Agi.LifeRunbook.DbMigrator.csproj" />
+    </Folder>
+    <Folder Name="/test/">
+        <Project Path="test/Agi.LifeRunbook.Application.Tests/Agi.LifeRunbook.Application.Tests.csproj" />
+        <Project Path="test/Agi.LifeRunbook.Web.Tests/Agi.LifeRunbook.Web.Tests.csproj" />
+        <Project Path="test/Agi.LifeRunbook.EntityFrameworkCore.Tests/Agi.LifeRunbook.EntityFrameworkCore.Tests.csproj" />
+        <Project Path="test/Agi.LifeRunbook.TestBase/Agi.LifeRunbook.TestBase.csproj" />
+        <Project Path="test/Agi.LifeRunbook.Domain.Tests/Agi.LifeRunbook.Domain.Tests.csproj" />
+        <Project Path="test/Agi.LifeRunbook.HttpApi.Client.ConsoleTestApp/Agi.LifeRunbook.HttpApi.Client.ConsoleTestApp.csproj" />
+    </Folder>
+    <Project Path="build/_build.csproj" />
+</Solution>

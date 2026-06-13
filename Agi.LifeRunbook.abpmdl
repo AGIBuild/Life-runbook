@@ -1,0 +1,113 @@
+{
+  "template": "app",
+  "imports": {
+    "Volo.Abp.LeptonXLiteTheme": {
+      "version": "5.4.1",
+      "isInstalled": true,
+      "creationTime": "06/13/2026 13:19:18 +00:00"
+    },
+    "Volo.Abp.Account": {
+      "version": "10.4.1",
+      "isInstalled": true,
+      "creationTime": "06/13/2026 13:19:18 +00:00"
+    },
+    "Volo.Abp.OpenIddict": {
+      "version": "10.4.1",
+      "isInstalled": true,
+      "creationTime": "06/13/2026 13:19:18 +00:00"
+    },
+    "Volo.Abp.Identity": {
+      "version": "10.4.1",
+      "isInstalled": true,
+      "creationTime": "06/13/2026 13:19:18 +00:00"
+    },
+    "Volo.Abp.TenantManagement": {
+      "version": "10.4.1",
+      "isInstalled": true,
+      "creationTime": "06/13/2026 13:19:18 +00:00"
+    },
+    "Volo.Abp.SettingManagement": {
+      "version": "10.4.1",
+      "isInstalled": true,
+      "creationTime": "06/13/2026 13:19:18 +00:00"
+    },
+    "Volo.Abp.PermissionManagement": {
+      "version": "10.4.1",
+      "isInstalled": true,
+      "creationTime": "06/13/2026 13:19:18 +00:00"
+    },
+    "Volo.Abp.FeatureManagement": {
+      "version": "10.4.1",
+      "isInstalled": true,
+      "creationTime": "06/13/2026 13:19:18 +00:00"
+    }
+  },
+  "folders": {
+    "items": {
+      "src": {},
+      "test": {}
+    }
+  },
+  "packages": {
+    "Agi.LifeRunbook.Application": {
+      "path": "src/Agi.LifeRunbook.Application/Agi.LifeRunbook.Application.abppkg",
+      "folder": "src"
+    },
+    "Agi.LifeRunbook.Application.Tests": {
+      "path": "test/Agi.LifeRunbook.Application.Tests/Agi.LifeRunbook.Application.Tests.abppkg",
+      "folder": "test"
+    },
+    "Agi.LifeRunbook.Domain.Shared": {
+      "path": "src/Agi.LifeRunbook.Domain.Shared/Agi.LifeRunbook.Domain.Shared.abppkg",
+      "folder": "src"
+    },
+    "Agi.LifeRunbook.Application.Contracts": {
+      "path": "src/Agi.LifeRunbook.Application.Contracts/Agi.LifeRunbook.Application.Contracts.abppkg",
+      "folder": "src"
+    },
+    "Agi.LifeRunbook.HttpApi": {
+      "path": "src/Agi.LifeRunbook.HttpApi/Agi.LifeRunbook.HttpApi.abppkg",
+      "folder": "src"
+    },
+    "Agi.LifeRunbook.HttpApi.Client": {
+      "path": "src/Agi.LifeRunbook.HttpApi.Client/Agi.LifeRunbook.HttpApi.Client.abppkg",
+      "folder": "src"
+    },
+    "Agi.LifeRunbook.Web": {
+      "path": "src/Agi.LifeRunbook.Web/Agi.LifeRunbook.Web.abppkg",
+      "folder": "src"
+    },
+    "Agi.LifeRunbook.Web.Tests": {
+      "path": "test/Agi.LifeRunbook.Web.Tests/Agi.LifeRunbook.Web.Tests.abppkg",
+      "folder": "test"
+    },
+    "Agi.LifeRunbook.EntityFrameworkCore.Tests": {
+      "path": "test/Agi.LifeRunbook.EntityFrameworkCore.Tests/Agi.LifeRunbook.EntityFrameworkCore.Tests.abppkg",
+      "folder": "test"
+    },
+    "Agi.LifeRunbook.EntityFrameworkCore": {
+      "path": "src/Agi.LifeRunbook.EntityFrameworkCore/Agi.LifeRunbook.EntityFrameworkCore.abppkg",
+      "folder": "src"
+    },
+    "Agi.LifeRunbook.TestBase": {
+      "path": "test/Agi.LifeRunbook.TestBase/Agi.LifeRunbook.TestBase.abppkg",
+      "folder": "test"
+    },
+    "Agi.LifeRunbook.Domain.Tests": {
+      "path": "test/Agi.LifeRunbook.Domain.Tests/Agi.LifeRunbook.Domain.Tests.abppkg",
+      "folder": "test"
+    },
+    "Agi.LifeRunbook.HttpApi.Client.ConsoleTestApp": {
+      "path": "test/Agi.LifeRunbook.HttpApi.Client.ConsoleTestApp/Agi.LifeRunbook.HttpApi.Client.ConsoleTestApp.abppkg",
+      "folder": "test"
+    },
+    "Agi.LifeRunbook.DbMigrator": {
+      "path": "src/Agi.LifeRunbook.DbMigrator/Agi.LifeRunbook.DbMigrator.abppkg",
+      "folder": "src"
+    },
+    "Agi.LifeRunbook.Domain": {
+      "path": "src/Agi.LifeRunbook.Domain/Agi.LifeRunbook.Domain.abppkg",
+      "folder": "src"
+    }
+  }
+}
